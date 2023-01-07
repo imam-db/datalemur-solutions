@@ -1,6 +1,6 @@
 # Daily SQL Solutions
 
-Welcome to my repository of daily solutions to SQL problems! Each day, I will be selecting one problem from [DataLemur](https://datalemur.com) and sharing my solution here. The problems are divided into three categories:
+Welcome to my repository of daily solutions to SQL problems! Each day, I will be selecting one problem from [DataLemur](https://datalemur.com?referralCode=s7zSt257) and sharing my solution here. The problems are divided into three categories:
 
 - **Easy**: These problems are suitable for beginners or those who are just getting started with SQL.
 - **Medium**: These problems are slightly more challenging and are intended for those with some experience with SQL.
@@ -20,6 +20,6 @@ To try out a solution, follow these steps:
 
 ## Acknowledgments
 
-Thank you to [DataLemur](https://datalemur.com) for providing the problems for this project.
+Thank you to [DataLemur](https://datalemur.com?referralCode=s7zSt257) for providing the problems for this project.
 
 I hope this README file is helpful as you work on your daily SQL solutions. Let me know if you have any questions.
