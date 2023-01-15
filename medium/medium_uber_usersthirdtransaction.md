@@ -33,13 +33,13 @@ The dataset you are querying against may have different input & output - **this 
 **Solution**
 
 ```sql
-WITH urutan AS
+WITH transaction_order AS
 (
-SELECT *, RANK() OVER(PARTITION BY user_id ORDER BY user_id, transaction_date, spend DESC) AS ranking
+SELECT *, 
+  RANK() OVER(PARTITION BY user_id ORDER BY user_id, transaction_date, spend DESC) AS ranking
 FROM transactions
 )
-
-SELECT user_id, spend, transaction_date--, ranking
-FROM urutan
+SELECT user_id, spend, transaction_date
+FROM transaction_order
 WHERE ranking = 3;
 ```
