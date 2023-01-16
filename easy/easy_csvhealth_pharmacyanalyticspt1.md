@@ -55,3 +55,11 @@ GROUP BY drug
 ORDER BY total_profit DESC
 LIMIT 3;
 ```
+
+**Solution Output**
+
+| **drug** | **total_profit** |
+|:--------:|:----------------:|
+| Humira   | 81515652.55      |
+| Keytruda | 11622022.02      |
+| Dupixent | 11217052.34      |
