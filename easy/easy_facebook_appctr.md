@@ -1,5 +1,8 @@
 ### App Click-through Rate (CTR) [Facebook SQL Interview Question]
 
+
+<a href="https://datalemur.com/questions/click-through-rate">Read the original question page</a>
+
 This is the same question as problem #1 in the SQL Chapter of Ace the Data Science Interview!
 
 Assume you have an events table on app analytics. Write a query to get the app’s click-through rate (CTR %) in 2022. Output the results in percentages rounded to 2 decimal places.
@@ -51,3 +54,10 @@ FROM events
 WHERE EXTRACT(YEAR FROM timestamp) = '2022'
 GROUP BY app_id;
 ```
+
+**Solution Output**
+
+| **app_id** | **ctr** |
+|:----------:|:-------:|
+| 123        | 66.67   |
+| 234        | 33.33   |

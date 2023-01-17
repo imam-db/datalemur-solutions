@@ -1,5 +1,8 @@
 ### Page With No Likes [Facebook SQL Interview Question]
 
+
+<a href="https://datalemur.com/questions/sql-page-with-no-likes">Read the original question page</a>
+
 Assume you are given the tables below about Facebook **pages** and **page likes**. Write a query to return the page IDs of all the Facebook pages that don't have any likes. The output should be in ascending order.
 
 `pages` **Table**:
@@ -56,3 +59,12 @@ LEFT JOIN page_likes AS pl
 GROUP BY p.page_id
 HAVING COUNT(pl.*) = 0
 ```
+
+
+**Solution Output**
+
+
+| **page_id** |
+|:-----------:|
+| 20701       |
+| 32728       |

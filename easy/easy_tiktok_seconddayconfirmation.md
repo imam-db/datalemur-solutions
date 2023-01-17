@@ -1,5 +1,8 @@
 ### Second Day Confirmation [TikTok SQL Interview Question]
 
+
+<a href="https://datalemur.com/questions/second-day-confirmation">Read the original question page</a>
+
 New TikTok users sign up with their emails and each user receives a text confirmation to activate their account. Assume you are given the below tables about emails and texts.
 
 Write a query to display the ids of the users who did not confirm on the first day of sign-up, but confirmed on the second day.
@@ -63,3 +66,11 @@ INNER JOIN texts AS t
 WHERE t.action_date::DATE - e.signup_date::DATE + 1 = 2 AND
   signup_action = 'Confirmed';
 ```
+
+
+**Solution Output**
+
+| **user_id** |
+|:-----------:|
+| 1052        |
+| 1235        |

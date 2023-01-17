@@ -1,5 +1,8 @@
 ### Data Science Skills [LinkedIn SQL Interview Question]
 
+
+<a href="https://datalemur.com/questions/matching-skills">Read the original question page</a>
+
 Given a table of candidates and their skills, you're tasked with finding the candidates best suited for an open Data Science job. You want to find candidates who are proficient in Python, Tableau, and PostgreSQL.
 
 Write a query to list the candidates who possess all of the required skills for the job. Sort the the output by candidate ID in ascending order.
@@ -50,3 +53,12 @@ GROUP BY candidate_id
 HAVING COUNT(*) > 2
 ORDER BY candidate_id;
 ```
+
+
+**Solution Output**
+
+
+| **candidate_id** |
+|:----------------:|
+| 123              |
+| 147              |

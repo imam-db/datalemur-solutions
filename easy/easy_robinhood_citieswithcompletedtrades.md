@@ -1,5 +1,8 @@
 ### Cities With Completed Trades [Robinhood SQL Interview Question]
 
+
+<a href="https://datalemur.com/questions/completed-trades">Read the original question page</a>
+
 This is the same question as problem #2 in the SQL Chapter of Ace the Data Science Interview!
 
 You are given the tables below containing information on Robinhood trades and users. Write a query to list the top three cities that have the most completed trade orders in descending order.
@@ -73,3 +76,13 @@ WHERE t.status = 'Completed'
 GROUP BY u.city
 ORDER BY total_orders DESC;
 ```
+
+
+**Solution Output**
+
+|    **city**   | **total_orders** |
+|:-------------:|:----------------:|
+| San Francisco | 4                |
+| Boston        | 3                |
+| Denver        | 2                |
+| New York      | 1                |

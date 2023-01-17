@@ -1,5 +1,8 @@
 ### Unfinished Parts [Tesla SQL Interview Question]
 
+
+<a href="https://datalemur.com/questions/tesla-unfinished-parts">Read the original question page</a>
+
 Tesla is investigating bottlenecks in their production, and they need your help to extract the relevant data. Write a SQL query that determines which parts have begun the assembly process but are not yet finished.
 
 **Assumption**
@@ -45,3 +48,12 @@ SELECT DISTINCT part
 FROM parts_assembly
 WHERE finish_date IS NULL;
 ```
+
+
+**Solution Output**
+
+
+| **part** |
+|:--------:|
+| bumper   |
+| engine   |

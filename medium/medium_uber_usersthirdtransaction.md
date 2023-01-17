@@ -1,5 +1,8 @@
 ### User's Third Transaction [Uber SQL Interview Question]
 
+
+<a href="https://datalemur.com/questions/sql-third-transaction">Read the original question page</a>
+
 This is the same question as problem #11 in the SQL Chapter of Ace the Data Science Interview!
 
 Assume you are given the table below on Uber transactions made by users. Write a query to obtain the third transaction of every user. Output the user id, spend and transaction date.
@@ -43,3 +46,13 @@ SELECT user_id, spend, transaction_date
 FROM transaction_order
 WHERE ranking = 3;
 ```
+
+
+**Solution Output**
+
+
+| **user_id** | **spend** | **transaction_date** |
+|:-----------:|:---------:|:--------------------:|
+| 111         | 89.60     | 02/05/2022 12:00:00  |
+| 121         | 67.90     | 04/03/2022 12:00:00  |
+| 263         | 100.00    | 07/12/2022 12:00:00  |

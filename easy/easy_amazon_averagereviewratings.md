@@ -1,5 +1,7 @@
 ### Average Review Ratings [Amazon SQL Interview Question]
 
+<a href="https://datalemur.com/questions/sql-avg-review-ratings">Read the original question page</a>
+
 Given the reviews table, write a query to get the average stars for each product every month.
 
 The output should include the month in numerical value, product id, and average star rating rounded to two decimal places. Sort the output based on month followed by the product id.
@@ -51,3 +53,15 @@ GROUP BY mth,
   product_id
 ORDER BY mth , product_id;
 ```
+
+**Solution Output**
+
+| **mth** | **product_id** | **avg_stars** |
+|:-------:|:--------------:|:-------------:|
+| 5       | 25255          | 4.00          |
+| 5       | 25600          | 4.33          |
+| 6       | 12580          | 4.50          |
+| 6       | 50001          | 3.50          |
+| 6       | 69852          | 4.00          |
+| 7       | 11223          | 5.00          |
+| 7       | 69852          | 2.50          |

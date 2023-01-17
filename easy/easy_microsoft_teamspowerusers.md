@@ -1,5 +1,8 @@
 ### Teams Power Users [Microsoft SQL Interview Question]
 
+
+<a href="https://datalemur.com/questions/teams-power-users">Read the original question page</a>
+
 Write a query to find the top 2 power users who sent the most messages on Microsoft Teams in August 2022. Display the IDs of these 2 users along with the total number of messages they sent. Output the results in descending count of the messages.
 
 Assumption:
@@ -53,3 +56,12 @@ FROM messages_per_user
 ORDER BY total_messages DESC
 LIMIT 2;
 ```
+
+
+**Solution Output**
+
+
+| **sender_id** | **total_messages** |
+|:-------------:|:------------------:|
+| 3601          | 4                  |
+| 2520          | 3                  |

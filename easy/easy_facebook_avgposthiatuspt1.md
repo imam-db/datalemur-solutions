@@ -1,5 +1,8 @@
 ### Average Post Hiatus (Part 1) [Facebook SQL Interview Question]
 
+
+<a href="https://datalemur.com/questions/sql-average-post-hiatus-1">Read the original question page</a>
+
 Given a table of Facebook posts, for each user who posted at least twice in 2021, write a query to find the number of days between each user’s first post of the year and last post of the year in the year 2021. Output the user and number of the days between each user's first and last post.
 
 p.s. If you've read the Ace the Data Science Interview and liked it, consider writing us a review?
@@ -43,3 +46,11 @@ WHERE EXTRACT(YEAR FROM post_date) = '2021'
 GROUP BY user_id
 HAVING EXTRACT(DAY FROM MAX(post_date)-MIN(post_date)) > 0;
 ```
+
+
+**Solution Output**
+
+| **user_id** | **days_between** |
+|:-----------:|:----------------:|
+| 151652      | 307              |
+| 661093      | 206              |

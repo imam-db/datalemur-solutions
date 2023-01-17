@@ -1,5 +1,8 @@
 ### Duplicate Job Listings [Linkedin SQL Interview Question]
 
+
+<a href="https://datalemur.com/questions/duplicate-job-listings">Read the original question page</a>
+
 This is the same question as problem #8 in the SQL Chapter of Ace the Data Science Interview!
 
 Assume you are given the table below that shows job postings for all companies on the LinkedIn platform. Write a query to get the number of companies that have posted duplicate job listings.
@@ -53,3 +56,11 @@ SELECT COUNT(*) AS duplicate_jobs
 FROM duplicates
 WHERE ranking1 > 1;
 ```
+
+
+**Solution Output**
+
+
+| **duplicate_jobs** |
+|:------------------:|
+| 3                  |

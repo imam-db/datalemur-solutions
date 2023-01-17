@@ -1,5 +1,8 @@
 ### Cards Issued Difference [JPMorgan Chase SQL Interview Question]
 
+
+<a href="https://datalemur.com/questions/cards-issued-difference">Read the original question page</a>
+
 Your team at JPMorgan Chase is soon launching a new credit card, and to gain some context, you are analyzing how many credit cards were issued each month.
 
 Write a query that outputs the name of each credit card and the difference in issued amount between the month with the most cards issued, and the least cards issued. Order the results according to the biggest difference.
@@ -59,3 +62,12 @@ FROM period_issued
 GROUP BY card_name
 ORDER BY MAX(total_issued) - MIN(total_issued) DESC;
 ```
+
+
+**Solution Output**
+
+
+|      **card_name**     | **difference** |
+|:----------------------:|:--------------:|
+| Chase Sapphire Reserve | 30000          |
+| Chase Freedom Flex     | 15000          |
