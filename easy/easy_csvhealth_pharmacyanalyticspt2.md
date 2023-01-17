@@ -1,5 +1,7 @@
 ### Pharmacy Analytics (Part 2) [CVS Health SQL Interview Question]
 
+[Read the original question page](https://datalemur.com/questions/non-profitable-drugs)
+
 CVS Health is trying to better understand its pharmacy sales, and how well different products are selling. Each drug can only be produced by one manufacturer.
 
 Write a query to find out which manufacturer is associated with the drugs that were not profitable and how much money CVS lost on these drugs. 
