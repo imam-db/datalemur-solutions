@@ -1,15 +1,12 @@
-### Pharmacy Analytics (Part 1) [CVS Health SQL Interview Question]
+### Pharmacy Analytics (Part 2) [CVS Health SQL Interview Question]
 
 CVS Health is trying to better understand its pharmacy sales, and how well different products are selling. Each drug can only be produced by one manufacturer.
 
-Write a query to find the top 3 most profitable drugs sold, and how much profit they made. Assume that there are no ties in the profits. Display the result from the highest to the lowest total profit.
+Write a query to find out which manufacturer is associated with the drugs that were not profitable and how much money CVS lost on these drugs. 
 
-**Definition:**
+Output the manufacturer, number of drugs and total losses. Total losses should be in absolute value. Display the results with the highest losses on top.
 
-- cogs stands for Cost of Goods Sold which is the direct cost associated with producing the drug.
-- Total Profit = Total Sales - Cost of Goods Sold
-
-If you like this question, try out Pharmacy Analytics (Part 2)!
+If you like this question, try out Pharmacy Analytics (Part 3)!
 
 `pharmacy_sales` **Table**:
 
