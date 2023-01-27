@@ -61,3 +61,22 @@ Definitions:
 67% of users have successfully completed their signup and activated their accounts. The remaining 33% have not yet replied to the text to confirm their signup.
 
 The dataset you are querying against may have different input & output - **this is just an example**!
+
+
+**Solution**
+
+```sql
+SELECT ROUND(SUM(CASE WHEN t.signup_action = 'Confirmed' THEN 1 ELSE 0 END)::DECIMAL /
+  COUNT(e.email_id),2) AS confirm_rate 
+FROM emails AS e
+INNER JOIN texts AS t
+  ON e.email_id = t.email_id;
+```
+
+
+**Solution Output**
+
+| **confirm_rate** |
+|------------------|
+| 0.50             |
+
