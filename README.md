@@ -29,7 +29,7 @@ I hope this README file is helpful as you work on your daily SQL solutions. Let 
 | **Difficulty** | **Progress** | **Done/Questions** |
 |:--------------:|:------------:|:------------------:|
 | Easy           |       ✔️      |        18/18       |
-| Medium         |       ⏳      |        7/14        |
+| Medium         |       ⏳      |        8/14        |
 | Hard           |       ⛔      |         0/9        |
 
 *p.s. I have only completed the free version
