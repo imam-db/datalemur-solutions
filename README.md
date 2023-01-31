@@ -18,12 +18,6 @@ To try out a solution, follow these steps:
 2. Navigate to the directory for the solution you want to try out.
 3. If the solution includes SQL queries, you can run them using your favorite SQL client or by connecting to your database from the command line.
 
-## Acknowledgments
-
-Thank you to [DataLemur](https://datalemur.com?referralCode=s7zSt257) for providing the problems for this project.
-
-I hope this README file is helpful as you work on your daily SQL solutions. Let me know if you have any questions.
-
 ## Progress
 
 | **Difficulty** | **Progress** | **Done/Questions** |
@@ -33,3 +27,11 @@ I hope this README file is helpful as you work on your daily SQL solutions. Let 
 | Hard           |       ⛔      |         0/9        |
 
 *p.s. I have only completed the free version
+
+## Acknowledgments
+
+Thank you to [DataLemur](https://datalemur.com?referralCode=s7zSt257) for providing the problems for this project.
+
+I hope this README file is helpful as you work on your daily SQL solutions. Let me know if you have any questions.
+
+
