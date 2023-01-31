@@ -1,4 +1,4 @@
-### Easy
+### Easy Questions
 
 - [Alibaba - Compressed Mean](./questions/easy_alibaba_compressedmean.md)
 - [Amazon - Average Review Ratings](./questions/easy_amazon_averagereviewratings.md)
