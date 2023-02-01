@@ -23,7 +23,7 @@ To try out a solution, follow these steps:
 | **Difficulty** | **Progress** | **Done/Questions** |
 |:--------------:|:------------:|:------------------:|
 | Easy           |       ✔️      |        18/18       |
-| Medium         |       ⏳      |        12/14        |
+| Medium         |       ⏳      |        13/14        |
 | Hard           |       ⛔      |         0/9        |
 
 *p.s. I have only completed the free version

@@ -3,6 +3,7 @@
 - [Alibaba - Compressed Mode](./questions/medium_medium_alibaba_compressedmode.md)
 - [Amazon - Highest-Grossing Items](./questions/medium_amazon_highestgrossingitems.md)
 - [Google - Odd and Even Measurements](./questions/medium_google_oddevenmeasurements.md)
+- [JPMorgan Chase - Card Launch Success](./questions/medium_jpmorganchase_cardlaunchsuccess.md)
 - [Microsoft - Supercloud Customer](./questions/medium_microsoft_supercloudcustomer.md)
 - [Snapchat - Sending vs Opening Snpas](./questions/medium_snapchat_sendingvsopeningsnaps.md)
 - [Spotify - Top 5 Artists](./questions/medium_spotify_top5artist.md)
