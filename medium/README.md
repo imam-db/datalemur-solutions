@@ -10,5 +10,6 @@
 - [TikTok - Signup Activation Rate](./questions/medium_tiktok_signupactivationrate.md)
 - [Twitter - Tweets' Rolling Averages](./questions/medium_twitter_tweetsrollingaverages.md)
 - [Uber - User's Third Transaction](./questions/medium_uber_usersthirdtransaction.md)
+- [Verizon - International Call Charge](./questions/medium_verizon_internationalcallcharge.md)
 - [Walmart - Frequently Purchased Pairs](./questions/medium_walmart_frequentlypurchasedpairs.md)
 - [Walmart - Histogram of Users and Purchases](./questions/medium_walmart_histogramofusersnadpurchases.md)
