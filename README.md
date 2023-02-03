@@ -23,8 +23,8 @@ To try out a solution, follow these steps:
 | **Difficulty** | **Progress** | **Done/Questions** |
 |:--------------:|:------------:|:------------------:|
 | Easy           |       ✔️      |        18/18       |
-| Medium         |       ⏳      |        14/14        |
-| Hard           |       ⛔      |         0/9        |
+| Medium         |       ✔️      |        14/14        |
+| Hard           |       ⏳      |         1/9        |
 
 *p.s. I have only completed the free version
 
