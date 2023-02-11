@@ -24,7 +24,7 @@ To try out a solution, follow these steps:
 |:--------------:|:------------:|:------------------:|
 | Easy           |       ✔️      |        18/18       |
 | Medium         |       ✔️      |        14/14        |
-| Hard           |       ⏳      |         6/9        |
+| Hard           |       ⏳      |         7/9        |
 
 *p.s. I have only completed the free version
 
