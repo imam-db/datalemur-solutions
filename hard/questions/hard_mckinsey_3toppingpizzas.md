@@ -1,5 +1,7 @@
 ### 3-Topping Pizzas [McKinsey SQL Interview Question]
 
+[Back to list of hard questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/pizzas-topping-cost">Read the original question page</a>
 

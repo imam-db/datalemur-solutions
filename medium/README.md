@@ -1,7 +1,11 @@
 ### Medium questions
 
-- [Alibaba - Compressed Mode](./questions/medium_medium_alibaba_compressedmode.md)
+- [Accenture - Fill Missing Client Data](./questions/medium_accenture_fillmissingclientdata.md)
+- [Alibaba - Compressed Mode](./questions/medium_alibaba_compressedmode.md)
 - [Amazon - Highest-Grossing Items](./questions/medium_amazon_highestgrossingitems.md)
+- [Bloomberg - FAANG Stock Min-Max (Part 1)](./questions/medium_bloomberg_faangstockminmaxpt1.md)
+- [FAANG - Second Highest Salary](./questions/medium_faang_secondhighestsalary.md)
+- [FAANG - Top Three Salaries](./questions/medium_faang_topthreesalaries.md)
 - [Google - Odd and Even Measurements](./questions/medium_google_oddevenmeasurements.md)
 - [JPMorgan Chase - Card Launch Success](./questions/medium_jpmorganchase_cardlaunchsuccess.md)
 - [Microsoft - Supercloud Customer](./questions/medium_microsoft_supercloudcustomer.md)
@@ -10,6 +14,8 @@
 - [TikTok - Signup Activation Rate](./questions/medium_tiktok_signupactivationrate.md)
 - [Twitter - Tweets' Rolling Averages](./questions/medium_twitter_tweetsrollingaverages.md)
 - [Uber - User's Third Transaction](./questions/medium_uber_usersthirdtransaction.md)
+- [United Health - Patient Support Analysis (Part 2)](./questions/medium_unitedhealth_patientsupportanalysispt2.md)
 - [Verizon - International Call Charge](./questions/medium_verizon_internationalcallcharge.md)
 - [Walmart - Frequently Purchased Pairs](./questions/medium_walmart_frequentlypurchasedpairs.md)
 - [Walmart - Histogram of Users and Purchases](./questions/medium_walmart_histogramofusersnadpurchases.md)
+- [Zomato - Swapped Food Delivery](./questions/medium_zomato_swappedfooddelivery.md)

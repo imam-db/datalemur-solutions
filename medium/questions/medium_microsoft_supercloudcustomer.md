@@ -1,5 +1,6 @@
 ### Supercloud Customer [Microsoft SQL Interview Question]
 
+[Back to list of medium questions](../README.md)
 
 <a href="https://datalemur.com/questions/supercloud-customer">Read the original question page</a>
 

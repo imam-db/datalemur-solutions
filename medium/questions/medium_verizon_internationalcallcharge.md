@@ -1,5 +1,6 @@
 ### International Call Percentage [Verizon SQL Interview Question]
 
+[Back to list of medium questions](../README.md)
 
 <a href="https://datalemur.com/questions/international-call-percentage">Read the original question page</a>
 

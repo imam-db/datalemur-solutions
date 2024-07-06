@@ -1,5 +1,6 @@
 ### Histogram of Users and Purchases [Walmart SQL Interview Question]
 
+[Back to list of medium questions](../README.md)
 
 <a href="https://datalemur.com/questions/histogram-users-purchases">Read the original question page</a>
 

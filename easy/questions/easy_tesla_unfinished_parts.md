@@ -21,32 +21,34 @@ Tesla is investigating bottlenecks in their production, and they need your help 
 
 `parts_assembly` **Example Input**:
 
-| part    | finish_date         | assembly_step |
-|---------|---------------------|---------------|
-| battery | 01/22/2022 00:00:00 | 1             |
-| battery | 02/22/2022 00:00:00 | 2             |
-| battery | 03/22/2022 00:00:00 | 3             |
-| bumper  | 01/22/2022 00:00:00 | 1             |
-| bumper  | 02/22/2022 00:00:00 | 2             |
-| bumper  |                     | 3             |
-| bumper  |                     | 4             |
+| **part** | **finish_date**     | **assembly_step** |
+|----------|---------------------|-------------------|
+| battery  | 01/22/2022 00:00:00 | 1                 |
+| battery  | 02/22/2022 00:00:00 | 2                 |
+| battery  | 03/22/2022 00:00:00 | 3                 |
+| bumper   | 01/22/2022 00:00:00 | 1                 |
+| bumper   | 02/22/2022 00:00:00 | 2                 |
+| bumper   |                     | 3                 |
+| bumper   |                     | 4                 |
 
 **Example Output**:
 
-| **part**      |
-|---------------|
-| bumper        |
+| **part** | **assembly_step** |
+|----------|-------------------|
+| bumper   | 3                 |
+| bumper   | 4                 |
 
 **Explanation**
 
-The only item in the output is "bumper" because step 3 didn't have a finish date.
+The bumpers in step 3 and 4 are the only item that remains unfinished as it lacks a recorded finish date.
 
 The dataset you are querying against may have different input & output - **this is just an example**!
 
 **Solution**
 
 ```sql
-SELECT DISTINCT part
+SELECT part,
+  assembly_step
 FROM parts_assembly
 WHERE finish_date IS NULL;
 ```
@@ -55,7 +57,8 @@ WHERE finish_date IS NULL;
 **Solution Output**
 
 
-| **part** |
-|:--------:|
-| bumper   |
-| engine   |
+| **part** | **assembly_step** |
+|:--------:|:-----------------:|
+| bumper   | 3                 |
+| bumper   | 4                 |
+| engine   | 5                 |

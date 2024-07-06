@@ -1,5 +1,7 @@
 ### Repeated Payments [Stripe SQL Interview Question]
 
+[Back to list of hard questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/repeated-payments">Read the original question page</a>
 

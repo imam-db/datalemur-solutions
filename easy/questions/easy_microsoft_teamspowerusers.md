@@ -46,11 +46,11 @@ The dataset you are querying against may have different input & output - **this 
 ```sql
 WITH messages_per_user AS
 (
-SELECT sender_id,
-    COUNT(message_id) AS total_messages
-FROM messages
-WHERE sent_date BETWEEN '2022-08-01' AND '2022-08-31'
-GROUP BY sender_id
+    SELECT sender_id,
+        COUNT(message_id) AS total_messages
+    FROM messages
+    WHERE sent_date BETWEEN '2022-08-01' AND '2022-08-31'
+    GROUP BY sender_id
 )
 SELECT sender_id,
     total_messages

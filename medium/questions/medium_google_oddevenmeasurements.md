@@ -1,5 +1,6 @@
 ### Odd and Even Measurements [Google SQL Interview Question]
 
+[Back to list of medium questions](../README.md)
 
 <a href="https://datalemur.com/questions/odd-even-measurements">Read the original question page</a>
 

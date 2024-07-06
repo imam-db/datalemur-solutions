@@ -1,5 +1,6 @@
 ### User's Third Transaction [Uber SQL Interview Question]
 
+[Back to list of medium questions](../README.md)
 
 <a href="https://datalemur.com/questions/sql-third-transaction">Read the original question page</a>
 

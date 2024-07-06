@@ -1,5 +1,6 @@
 ### Tweets' Rolling Averages [Twitter SQL Interview Question]
 
+[Back to list of medium questions](../README.md)
 
 <a href="https://datalemur.com/questions/rolling-average-tweets">Read the original question page</a>
 

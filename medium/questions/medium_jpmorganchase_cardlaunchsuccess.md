@@ -1,5 +1,6 @@
 ### Card Launch Success [JPMorgan Chase SQL Interview Question]
 
+[Back to list of medium questions](../README.md)
 
 <a href="https://datalemur.com/questions/card-launch-success">Read the original question page</a>
 

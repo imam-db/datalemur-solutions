@@ -1,5 +1,6 @@
 ### Fill Missing Client Data [Accenture SQL Interview Question]
 
+[Back to list of medium questions](../README.md)
 
 <a href="https://datalemur.com/questions/fill-missing-product">Read the original question page</a>
 

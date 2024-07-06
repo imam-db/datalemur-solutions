@@ -1,5 +1,6 @@
 ### Sending vs. Opening Snaps [Snapchat SQL Interview Question]
 
+[Back to list of medium questions](../README.md)
 
 <a href="https://datalemur.com/questions/time-spent-snaps">Read the original question page</a>
 

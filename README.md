@@ -22,9 +22,9 @@ To try out a solution, follow these steps:
 
 | **Difficulty** | **Progress** | **Done/Questions** |
 |:--------------:|:------------:|:------------------:|
-| Easy           |       ✔️      |        21/21       |
-| Medium         |       ✔️      |        14/14        |
-| Hard           |       ✔️      |         9/9        |
+| Easy           |       ✔️     |        21/21       |
+| Medium         |       ✔️     |        18/18       |
+| Hard           |       ✔️     |         11/11      |
 
 *p.s. I have only completed the free version
 

@@ -1,5 +1,7 @@
 ### Y-on-Y Growth Rate [Wayfair SQL Interview Question]
 
+[Back to list of hard questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/yoy-growth-rate">Read the original question page</a>
 

@@ -1,5 +1,6 @@
 ### Highest-Grossing Items [Amazon SQL Interview Question]
 
+[Back to list of medium questions](../README.md)
 
 <a href="https://datalemur.com/questions/sql-highest-grossing">Read the original question page</a>
 

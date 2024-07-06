@@ -1,5 +1,7 @@
 ### Maximize Prime Item Inventory [Amazon SQL Interview Question]
 
+[Back to list of hard questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/prime-warehouse-storage">Read the original question page</a>
 

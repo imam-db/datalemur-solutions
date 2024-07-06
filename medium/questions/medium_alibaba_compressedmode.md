@@ -1,5 +1,6 @@
 ### Compressed Mode [Alibaba SQL Interview Question]
 
+[Back to list of medium questions](../README.md)
 
 <a href="https://datalemur.com/questions/alibaba-compressed-mode">Read the original question page</a>
 
