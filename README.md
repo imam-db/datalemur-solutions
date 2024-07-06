@@ -2,9 +2,9 @@
 
 Welcome to my repository of daily solutions to SQL problems! Each day, I will be selecting one problem from [DataLemur](https://datalemur.com?referralCode=s7zSt257) and sharing my solution here. The problems are divided into three categories:
 
-- [**Easy**](./easy/): These problems are suitable for beginners or those who are just getting started with SQL.
-- [**Medium**](./medium/): These problems are slightly more challenging and are intended for those with some experience with SQL.
-- [**Hard**](./hard/): These problems are more difficult and are intended for those with a strong foundation in SQL.
+- [**Easy**](./easy/README.md): These problems are suitable for beginners or those who are just getting started with SQL.
+- [**Medium**](./medium/README.md): These problems are slightly more challenging and are intended for those with some experience with SQL.
+- [**Hard**](./hard/README.md): These problems are more difficult and are intended for those with a strong foundation in SQL.
 
 ## Technologies
 
