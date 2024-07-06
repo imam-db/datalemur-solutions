@@ -22,7 +22,7 @@ To try out a solution, follow these steps:
 
 | **Difficulty** | **Progress** | **Done/Questions** |
 |:--------------:|:------------:|:------------------:|
-| Easy           |       ✔️      |        19/19       |
+| Easy           |       ✔️      |        21/21       |
 | Medium         |       ✔️      |        14/14        |
 | Hard           |       ✔️      |         9/9        |
 
