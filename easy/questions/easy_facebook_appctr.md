@@ -1,5 +1,7 @@
 ### App Click-through Rate (CTR) [Facebook SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/click-through-rate">Read the original question page</a>
 

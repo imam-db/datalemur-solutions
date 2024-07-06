@@ -1,5 +1,7 @@
 ### Average Review Ratings [Amazon SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 <a href="https://datalemur.com/questions/sql-avg-review-ratings">Read the original question page</a>
 
 Given the reviews table, write a query to get the average stars for each product every month.

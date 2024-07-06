@@ -1,5 +1,7 @@
 ### Pharmacy Analytics (Part 3) [CVS Health SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/total-drugs-sales">Read the original question page</a>
 

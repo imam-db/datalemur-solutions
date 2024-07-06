@@ -1,5 +1,7 @@
 ### Easy Questions
 
+[Back to Home](../README.md)
+
 - [Alibaba - Compressed Mean](./questions/easy_alibaba_compressedmean.md)
 - [Amazon - Average Review Ratings](./questions/easy_amazon_averagereviewratings.md)
 - [CVS Health - Pharmacy Analytics (Part 1)](./questions/easy_csvhealth_pharmacyanalyticspt1.md)
@@ -15,5 +17,6 @@
 - [Robinhood - Cities With Completed Trades](./questions/easy_robinhood_citieswithcompletedtrades.md)
 - [Tesla - Unfinished Parts](./questions/easy_tesla_unfinished_parts.md)
 - [TikTok - Second Day Confirmation](./questions/easy_tiktok_seconddayconfirmation.md)
+- [Twitter - Histogram of Tweets](./questions/easy_twitter_histogramoftweets.md)
 - [UnitedHealth - Patient Support Analysis (Part 1)](./questions/easy_unitedhealth_patientsupportanalysispt1.md)
 - [UnitedHealth - Patient Support Analysis (Part 2)](./questions/easy_unitedhealth_patientsupportanalysispt2.md)

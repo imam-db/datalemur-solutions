@@ -1,5 +1,7 @@
 ### Unfinished Parts [Tesla SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/tesla-unfinished-parts">Read the original question page</a>
 

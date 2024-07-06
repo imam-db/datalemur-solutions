@@ -1,5 +1,7 @@
 ### Second Day Confirmation [TikTok SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/second-day-confirmation">Read the original question page</a>
 

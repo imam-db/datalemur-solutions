@@ -1,5 +1,7 @@
 ### Page With No Likes [Facebook SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/sql-page-with-no-likes">Read the original question page</a>
 

@@ -1,5 +1,7 @@
 ### Cities With Completed Trades [Robinhood SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/completed-trades">Read the original question page</a>
 

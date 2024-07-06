@@ -1,5 +1,7 @@
 ### Pharmacy Analytics (Part 1) [CVS Health SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 <a href="https://datalemur.com/questions/top-profitable-drugs">Read the original question page</a>
 
 CVS Health is trying to better understand its pharmacy sales, and how well different products are selling. Each drug can only be produced by one manufacturer.

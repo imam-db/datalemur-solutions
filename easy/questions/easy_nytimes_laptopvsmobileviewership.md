@@ -1,5 +1,7 @@
 ### Laptop vs. Mobile Viewership [New York Times SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/laptop-mobile-viewership">Read the original question page</a>
 

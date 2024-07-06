@@ -1,5 +1,7 @@
 ### Duplicate Job Listings [Linkedin SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/duplicate-job-listings">Read the original question page</a>
 

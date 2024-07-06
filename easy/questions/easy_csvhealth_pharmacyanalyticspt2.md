@@ -1,5 +1,7 @@
 ### Pharmacy Analytics (Part 2) [CVS Health SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/non-profitable-drugs">Read the original question page</a>
 

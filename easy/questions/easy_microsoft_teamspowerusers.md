@@ -1,5 +1,7 @@
 ### Teams Power Users [Microsoft SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/teams-power-users">Read the original question page</a>
 

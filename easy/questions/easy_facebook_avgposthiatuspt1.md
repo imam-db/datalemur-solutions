@@ -1,5 +1,7 @@
 ### Average Post Hiatus (Part 1) [Facebook SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/sql-average-post-hiatus-1">Read the original question page</a>
 

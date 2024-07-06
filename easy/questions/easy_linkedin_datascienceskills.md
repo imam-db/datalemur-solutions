@@ -1,5 +1,7 @@
 ### Data Science Skills [LinkedIn SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/matching-skills">Read the original question page</a>
 

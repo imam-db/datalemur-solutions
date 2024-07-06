@@ -1,5 +1,7 @@
 ### Patient Support Analysis (Part 2) [UnitedHealth SQL Interview Question]
 
+[Back to list of easy questions](../README.md)
+
 
 <a href="https://datalemur.com/questions/uncategorized-calls-percentage">Read the original question page</a>
 
